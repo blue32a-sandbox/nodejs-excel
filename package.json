@@ -1,4 +1,7 @@
 {
   "name": "node-excel-example",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  }
 }
