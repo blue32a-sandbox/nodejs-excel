@@ -2,6 +2,7 @@
   "name": "node-excel-example",
   "private": true,
   "dependencies": {
-    "exceljs": "^4.3.0"
+    "exceljs": "^4.3.0",
+    "xlsx-js-style": "^1.2.0"
   }
 }
